@@ -381,11 +381,11 @@ insula and habenula - aversive prediction error
       <category term="Reading" scheme="http://yoursite.com/categories/Reading/"/>
     
     
+      <category term="reward" scheme="http://yoursite.com/tags/reward/"/>
+    
       <category term="BOLD" scheme="http://yoursite.com/tags/BOLD/"/>
     
       <category term="VTA" scheme="http://yoursite.com/tags/VTA/"/>
-    
-      <category term="reward" scheme="http://yoursite.com/tags/reward/"/>
     
       <category term="VStr" scheme="http://yoursite.com/tags/VStr/"/>
     
